@@ -1,4 +1,2 @@
-"# CICD"
-
-Demo of CICD
+GIT BASICS 
 
